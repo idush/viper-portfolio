@@ -17,7 +17,7 @@
 ## 🧠 About Me
 
 I'm an IT student and lifelong learner driven by curiosity and a passion for building intelligent, secure systems.  
-My journey blends **Vibe Coding**, **AI Tools Developer**, **AI prompt engineering**, and **cloud computing**, with a strong focus on Automation, OSINT analysis, and ethical hacking.  
+My journey blends **Vibe Coding**, **AI Tools Developer**, **AI prompt engineering**, and **cloud computing**, with a strong focus on Automation, OSINT analysis, and AI Tool Developer.
 
 I believe in learning by building — transforming every experiment into a lesson, every idea into a tool.  
 
