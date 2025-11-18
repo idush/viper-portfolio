@@ -17,11 +17,12 @@
 ## 🧠 About Me
 
 I'm an IT student and lifelong learner driven by curiosity and a passion for building intelligent, secure systems.  
-My journey blends **cybersecurity**, **AI prompt engineering**, and **cloud computing**, with a strong focus on automation, OSINT analysis, and ethical hacking.  
+My journey blends **Vibe Coding**, **AI Tools Developer**, **AI prompt engineering**, and **cloud computing**, with a strong focus on Automation, OSINT analysis, and ethical hacking.  
 
 I believe in learning by building — transforming every experiment into a lesson, every idea into a tool.  
 
 ### 🔍 Key Interests
+- Vibe Coding & AI Developer
 - Open Source Intelligence (OSINT) & Digital Forensics  
 - Ethical Hacking & Penetration Testing  
 - Cloud Infrastructure (AWS, GCP, Azure)  
